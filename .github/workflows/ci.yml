@@ -39,5 +39,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t ramya/ramya-converter:latest .
-          docker push ramya/ramya-converter:latest
+          docker build -t ramyasri1417/ramya-converter:latest .
+          docker push ramyasri1417/ramya-converter:latest
